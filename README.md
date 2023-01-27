@@ -1,4 +1,4 @@
-![banner](https://res.cloudinary.com/dloadb2bx/image/upload/v1663763496/cover_synurx.png)
+![banner](https://res.cloudinary.com/dloadb2bx/image/upload/v1674861929/g3_irkwnb.png)
 # Github Explorer
 This project was developed during the React Native specialization created by Rocketseat. It is an application for search for a github repository and display information. It'´s also possible to press the repository to be redirect to the github page.
 
